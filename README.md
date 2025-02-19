@@ -41,3 +41,11 @@ Results
 The model outputs a prediction for the next day's closing price based on the most recent data.
 
 The accuracy of the model can be evaluated using the metrics like Mean Absolute Error (MAE) and Mean Squared Error (MSE).
+
+Conclusion 
+
+From the analysis, I found that Tata Motors' stock price has had some ups and downs over the last few years. The 50-day moving average helped show the overall trend making it easier to spot if the stock is going up or down   .
+
+I also noticed that when there was a lot of trading volume, the price often moved more, which could mean something big was happening with the company or the market.
+
+In short, the stock price shows some clear trends, and the moving average gives a good idea of whether it's on the rise or fall in the long term.
